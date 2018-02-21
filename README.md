@@ -5,13 +5,13 @@
 
 ---  
 
-環境  
-
-[![](https://img.youtube.com/vi/DDYNxq84B_4/0.jpg)](https://www.youtube.com/watch?v=DDYNxq84B_4)
+##### 環境  
 
 CNC : r7 cnc  
 CAM : Autodesk Fusion360  
-CNC の制御 : chilipeppr （[http://chilipeppr.com/](http://chilipeppr.com/)）
+CNC の制御 : chilipeppr （[http://chilipeppr.com/](http://chilipeppr.com/)）  
+
+[![](https://img.youtube.com/vi/DDYNxq84B_4/0.jpg)](https://www.youtube.com/watch?v=DDYNxq84B_4)
 
 
 ---  
