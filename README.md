@@ -16,13 +16,15 @@ CNC の制御 : chilipeppr （[http://chilipeppr.com/](http://chilipeppr.com/)�
 
 ---  
 
-### 180207
-イントロ（木工家具、CNC）  
-デザイン  
+##### ファイル  
 
-### 180219  
-仕上げ（研磨、組み立て、オイル仕上げ）  
+- [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
+  - イントロ（木工家具、CNC）  
+  - デザイン  
 
+- [180219.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180219.md)  
+  - 仕上げ（研磨、組み立て、オイル仕上げ）  
 
-### CAM  
-Fusion360 の CAM モード
+- [Fusion360-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Fusion360-CAM.md)  
+  - Fusion360 の CAM モードの設定など
+
