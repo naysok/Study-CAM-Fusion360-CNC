@@ -8,10 +8,14 @@
 ##### 環境  
 
 CNC : r7 cnc  
-CAM : Autodesk Fusion360  
 CNC の制御 : chilipeppr （[http://chilipeppr.com/](http://chilipeppr.com/)）  
+CAM : Autodesk Fusion360  
+
+ぐぐったら、公式リファレンスがあった。これをちゃんと見るのが良さそう。  
+（[http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-876FEBF5-2B91-46C2-B9A5-23542418037B](http://help.autodesk.com/view/fusion360/ENU/?guid=GUID-876FEBF5-2B91-46C2-B9A5-23542418037B)）  
 
 [![](https://img.youtube.com/vi/DDYNxq84B_4/0.jpg)](https://www.youtube.com/watch?v=DDYNxq84B_4)
+
 
 
 ---  
