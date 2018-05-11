@@ -6,7 +6,7 @@
 ---  
 
 
-##### 環境  
+### 環境  
 
 CNC : r7 cnc  
 CNC の制御 : chilipeppr （[http://chilipeppr.com/](http://chilipeppr.com/)）  
@@ -21,7 +21,7 @@ CAM : Autodesk Fusion360
 
 ---  
 
-##### ファイル  
+### ファイル  
 
 - [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
   - イントロ（木工家具、CNC）  
@@ -31,5 +31,8 @@ CAM : Autodesk Fusion360
   - 仕上げ（研磨、組み立て、オイル仕上げ）  
 
 - [Fusion360-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Fusion360-CAM.md)  
-  - Fusion360 の CAM モードの設定など
+  - Fusion360 の CAM モードの設定など  
+
+- [STL-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/STL-CAM.md)  
+  - メッシュのオブジェクトから切削パスを生成が、微妙なのでメモ
 
