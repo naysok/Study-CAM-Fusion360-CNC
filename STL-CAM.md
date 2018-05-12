@@ -8,9 +8,7 @@
 
 ---  
 
-[![](https://img.youtube.com/vi/dgeH3hgkJ3Q&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=dgeH3hgkJ3Q&feature=youtu.be)
-
----  
+[![](http://img.youtube.com/vi/dgeH3hgkJ3Q/0.jpg)](http://www.youtube.com/watch?v=dgeH3hgkJ3Q)  
 
 
 
