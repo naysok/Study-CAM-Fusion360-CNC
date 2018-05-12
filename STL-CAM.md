@@ -1,12 +1,25 @@
 # STL-CAM  
 
-メッシュ (STL) から切削パスを生成  
+メッシュ (STL) から切削パスを生成 → とりあえずできた  
 
 色々試しているけど、メッシュの扱いはあまり賢くないのでは...  
 
+
+
 ---  
 
-# ※これは、直方体のデータで、ストックとほぼ同じ形の時  
+[![](https://img.youtube.com/vi/dgeH3hgkJ3Q&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=dgeH3hgkJ3Q&feature=youtu.be)
+
+---  
+
+
+
+
+---  
+
+
+## ※こここから下は失敗してた時のものです。  
+
 
 
 ### セットアップ  
