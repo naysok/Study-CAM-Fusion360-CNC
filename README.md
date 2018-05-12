@@ -21,18 +21,27 @@ CAM : Autodesk Fusion360
 
 ---  
 
-### ファイル  
-
-- [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
-  - イントロ（木工家具、CNC）  
-  - デザイン  
-
-- [180219.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180219.md)  
-  - 仕上げ（研磨、組み立て、オイル仕上げ）  
+### Index  
 
 - [Fusion360-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Fusion360-CAM.md)  
   - Fusion360 の CAM モードの設定など  
 
 - [STL-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/STL-CAM.md)  
-  - メッシュのオブジェクトから切削パスを生成が、微妙なのでメモ
+  - メッシュのオブジェクトから切削パスを生成のメモ。多分できた。  
 
+- [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
+  - ws day 1  
+  - イントロ（木工家具、CNC）  
+  - デザイン  
+
+- [180219.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180219.md)  
+  - ws day 2  
+  - 仕上げ（研磨、組み立て、オイル仕上げ）  
+
+
+
+- file  
+  - テストに使った STL ファイル  
+
+- photo  
+  - src-files  
