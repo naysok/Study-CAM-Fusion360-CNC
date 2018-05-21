@@ -1,12 +1,5 @@
 # CNC 切削についてのまとめ  
 
-180218 -  
-
-180208 に開かれた切削 WS   
-([https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/](https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/)）  
-
----  
-
 ### 切削の流れ  
 
 3D データを作る >> Fusion360 の CAM で切削パスを生成 >> パスを chilipeppr に回して CNC を動かす  
@@ -44,6 +37,7 @@ CAM : Autodesk Fusion360
 
 - [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
   - ws day 1  
+    - ws はこれです。 ([https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/](https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/)）    
   - イントロ（木工家具、CNC）  
   - デザイン  
 
@@ -54,3 +48,11 @@ CAM : Autodesk Fusion360
 - file // テストに使った STL ファイル等  
 
 - photo // src-files 、画像等  
+
+
+---  
+
+---  
+
+
+180218 -  
