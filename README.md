@@ -38,6 +38,10 @@ CAM : Autodesk Fusion360
 - [STL-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/STL-CAM.md)  
   - メッシュのオブジェクトから切削パスを生成のメモ。多分できた。  
 
+- [Chilipeppr.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Chilipeppr.md)  
+  - Chilipeppr について、基本的な使い方、エラー復旧等  
+
+
 - [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
   - ws day 1  
   - イントロ（木工家具、CNC）  
@@ -46,8 +50,6 @@ CAM : Autodesk Fusion360
 - [180219.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180219.md)  
   - ws day 2  
   - 仕上げ（研磨、組み立て、オイル仕上げ）  
-
-
 
 - file // テストに使った STL ファイル等  
 
