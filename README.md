@@ -25,24 +25,30 @@ CAM : Autodesk Fusion360
 
 ### Index  
 
+- [Chilipeppr.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Chilipeppr.md)  
+  - Chilipeppr について、基本的な使い方、エラー復旧等  
+    - Chilipeppr は r7 CNC の制御のためのオンラインツール  
+
+- [r7-CNC.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/r7-CNC.md)
+  - r7 CNC の接続等の使い方を書きます  
+
 - [Fusion360-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Fusion360-CAM.md)  
   - Fusion360 の CAM モードの主な機能、主な設定項目など  
 
 - [STL-CAM.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/STL-CAM.md)  
   - メッシュのオブジェクトから切削パスを生成のメモ。多分できた。  
 
-- [Chilipeppr.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Chilipeppr.md)  
-  - Chilipeppr について、基本的な使い方、エラー復旧等  
-
+- [Double-Side.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Double-Side.md)  
+  - 両面加工の何か書きます。
 
 - [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
-  - ws day 1  
+  - report ws day 1  
     - ws はこれです。 ([https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/](https://www.opencu.com/2018/01/shibuya-woodcraft-club-02/)）    
   - イントロ（木工家具、CNC）  
   - デザイン  
 
 - [180219.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180219.md)  
-  - ws day 2  
+  - report ws day 2  
   - 仕上げ（研磨、組み立て、オイル仕上げ）  
 
 - file // テストに使った STL ファイル等  
