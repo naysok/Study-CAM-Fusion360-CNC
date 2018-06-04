@@ -39,7 +39,10 @@ CAM : Autodesk Fusion360
   - メッシュのオブジェクトから切削パスを生成のメモ。多分できた。  
 
 - [Double-Side.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Double-Side.md)  
-  - 両面加工の何か書きます。
+  - 両面加工の何か書きます。  
+
+- [Multiaxis.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Multiaxis.md)  
+  - 多軸切削についてなんらか  
 
 - [180207.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/180207.md)  
   - report ws day 1  
