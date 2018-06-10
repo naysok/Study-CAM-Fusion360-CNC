@@ -26,7 +26,8 @@ CAM : Autodesk Fusion360
 ### Index  
 
 - [HowTo.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/HowTo.md)（！）  
-  - 主な使い方、流れはこれ。  
+  - 主な使い方、切削の流れはこれ。  
+  - 切削パス出しから、CNC の接続とセットアップ、実際の切削まで  
 
 - [Chilipeppr.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Chilipeppr.md)  
   - Chilipeppr について、基本的な使い方、エラー復旧等  
