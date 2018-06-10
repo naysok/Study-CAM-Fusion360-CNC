@@ -25,7 +25,7 @@ CAM : Autodesk Fusion360
 
 ### Index  
 
-- [HowTo.md]((https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/HowTo.md)（！）  
+- [HowTo.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/HowTo.md)（！）  
   - 主な使い方、流れはこれ。  
 
 - [Chilipeppr.md](https://github.com/naysok/Study-CAM-Fusion360-CNC/blob/master/Chilipeppr.md)  
